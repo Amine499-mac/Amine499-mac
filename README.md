@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I´m Amine
 🔭 I’m currently working on : Building responsive web applications and enhancing user experiences through modern front-end technologies also exploring cloud integration solutions.<br>👯 I’m looking to collaborate on : Full-stack projects,Projects that combine front-end development with cloud technologies, as well as open-source initiatives.<br>🤝 I’m looking for help with :  Optimizing performance for complex web apps and Understanding cloud architecture and best practices for deploying and managing applications in the cloud.<br>🌱 I’m currently learning : Advanced front-end frameworks (React/Vue.js), cloud infrastructure management, and DevOps practices.<br>💬 Ask me about :  JavaScript, web development best practices, and my journey into cloud engineering.<br>⚡ Fun fact : I enjoy tackling coding challenges in my free time and love sharing solutions with the developer community!<br><br>
 
 
